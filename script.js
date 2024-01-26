@@ -1,7 +1,7 @@
 var point = 0;
 var cross = true;
 
-let bgm = new Audio('music.mp3');
+let bgm = new Audio('bailSong.mp3');
 let goAudio = new Audio('gameover.mp3');
 
 function playAudio() {
